@@ -1,0 +1,65 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.borda {
+    margin: 20px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color:#d6d6d6;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    background-color: rgba(232,118, 151, 0.55);
+}
+.borda2 {
+    margin: 20px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color:#d6d6d6;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    background-color: rgba(232,118, 151, 0.55);
+    
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+    border: 10px dashed pink;
+    border-radius: 10px;
+    background-color: rgb(232, 118, 151);
+}
+
+.Menu {
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 80px ;
+    color: white;
+}
+
+hr {
+    border-color:  white;
+}
+
+#ComeBorda{
+    margin-top: 60px;
+    margin-left: 55px;
+    clip: rect(6px,298px,465px,3px);
+    position: relative;
+    float: right;
+    right: 50px;
+}
+
+p{
+   margin-left: 15px; 
+   color:white;
+}
+
+.MarginEsquerda{
+    margin-left: 10px;
+    color: white;
+}
